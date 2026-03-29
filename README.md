@@ -15,15 +15,16 @@ I'm currently studying 2nd year CSE <br>I'm currently learning DSA problem solvi
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankitha-7go&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-[](https://github-profile-trophy.vercel.app/?username=Ankitha-7go&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Ankitha-7go&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔝 Top Contributed Repo
-[](https://github-contributor-stats.vercel.app/api?username=Ankitha-7go&limit=5&theme=rose_pine&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Ankitha-7go&limit=5&theme=rose_pine&combine_all_yearly_contributions=true)
 
 ---
-[[](https://visitcount.itsvg.in/api?id=Ankitha-7go&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ankitha-7go&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
